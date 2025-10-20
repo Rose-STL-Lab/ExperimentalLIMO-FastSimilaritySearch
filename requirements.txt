@@ -1,5 +1,11 @@
-torch
-pytorch-lightning==1.9.0
 selfies
 scipy
 tqdm
+rdkit
+scikit-learn
+pandas
+tensorboard
+wandb
+matplotlib
+pytorch_lightning
+lshashpy3
